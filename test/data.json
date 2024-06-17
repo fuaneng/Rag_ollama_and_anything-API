@@ -1,0 +1,75 @@
+{
+  "Description": {
+    "ti": "16-ch, 4.5-V to 5.5-V buffers with TTL-compatible CMOS inputs and 3-state outputs",
+    "component_search_engine": "Texas Instruments 74ACT16244DGGR 16-channel Buffer & Line Driver, 3-State, 5V, 48-Pin TSSOP",
+    "arrow": "Buffer/Line Driver 16-CH Non-Inverting 3-ST CMOS 48-Pin TSSOP T/R",
+    "octopart_Arrow cn": "Buffer/Line Driver 16-CH Non-Inverting 3-ST CMOS 48-Pin TSSOP T/R",
+    "octopart_Farnell": "74ACT, BUFFER/LINE DRIVER, TSSOP48; Logic Family / Base Number: 74ACT16244; Logic Device Type: Buffer, Non Inverting; Logic Case Style: TSSOP; No. of Pins: 48Pins; Supply Voltage Min: 4.5V; Supply Voltage Max: 5.5V; Logic IC Family: 74ACT; Logic IC Base Number: 7416244; Operating Temperature Min: -40°C; Operating Temperature Max: 85°C; Product Range: -; Automotive Qualification Standard: -; RoHS Phthalates Compliant: Yes; MSL: MSL 1 - Unlimited; SVHC: No SVHC (27-Jun-2018); Logic Function Number: 7416244; Logic IC Base Number: 7416244; Logic IC Function: 16-Bit Buffer / Line Driver 3-State; Operating Temperature Range: -40°C to +85°C; Supply Voltage Range: 4.5V to 5.5V; Termination Type: Surface Mount Device",
+    "octopart_Utmel Electronic": "TEXAS INSTRUMENTS 74ACT16244DGGR Buffer / Line Driver, Non-Inverting, 3-State, 4.5V to 5.5V, TSSOP-48",
+    "digikey": "IC BUFF NON-INVERT 5.5V 48TSSOP",
+    "mouser": "Buffers & Line Drivers Tri-State 16-Bit",
+    "datasheets": "Buffer/Line Driver 16-CH Non-Inverting 3-ST CMOS 48-Pin TSSOP T/R",
+    "lcsc": "24mA 4.5V~5.5V 24mA TSSOP-48-6.2mm  Buffer/Driver/Transceiver ROHS"
+  },
+  "Details": {
+    "ti": "<p></p><p>The SN54ACT16244 and 74ACT16244 are 16-bit buffers/line drivers\n designed specifically to improve both the performance and density of\n 3-state memory address drivers, clock drivers, and bus-oriented\n receivers and transmitters. They can be used as four 4-bit buffers,\n two 8-bit buffers, or one 16-bit buffer. The devices provide true\n outputs and symmetrical \n (active-low) output-enable inputs.</p>\n \n <p>The 74ACT16244 is packaged in TI's shrink small-outline package,\n which provides twice the I/O pin count and functionality of standard\n small-outline packages in the same printed-circuit-board area.</p>\n \n <p>The SN54ACT16244 is characterized for operation over the full\n military temperature range of -55°C to 125°C. The\n 74ACT16244 is characterized for operation from -40°C to\n 85°C.</p>\n \n <p> </p>\n \n <p> </p>",
+    "pdfgpt": "The 74ACT16244DGGR is a 16-bit buffer/line driver with 3-state outputs from Texas Instruments. It is part of the Widebus family and is designed to enhance the performance and density of memory address drivers, clock drivers, and bus-oriented receivers and transmitters. The device can function as four 4-bit buffers, two 8-bit buffers, or one 16-bit buffer. It features true outputs, symmetrical OE (active-low) output-enable inputs, and is packaged in a Thin Shrink Small-Outline (DGG) package. The 74ACT16244DGGR is characterized for operation from -40°C to 85°C.",
+    "digikey": "Buffer, Non-Inverting 4 Element 4 Bit per Element 3-State Output 48-TSSOP",
+    "gpt_3_5_desc": [
+      "Designed with flexibility in mind, this device can function as four 4-bit buffers, two 8-bit buffers, or one 16-bit buffer, making it a versatile option for different system configurations. Additionally, the compact size of the TI shrink small-outline package means you can fit more functionality into the same PCB area, saving valuable space in your design",
+      "The 74ACT16244DGGR is a versatile 16-bit buffer/line driver that offers improved performance and density for a variety of applications. Whether you need to drive memory address lines, clocks, or bus signals, this device can handle it all. With true outputs and symmetrical, active-low output-enable inputs, you can trust that your signals will be transmitted accurately and efficiently"
+    ]
+  },
+  "Feature": {
+    "ti": "<ul> <li>Members of the Texas Instruments Widebus<sup>TM</sup> Family </li> <li>Inputs Are TTL-Voltage Compatible </li> <li>3-State Outputs Drive Bus Lines or Buffer Memory Address Registers </li> <li>Flow-Through Architecture Optimizes PCB Layout </li> <li>Distributed V<sub>CC</sub> and GND Pin Configurations Minimize High-Speed Switching Noise </li> <li>EPIC<sup>TM</sup> (Enhanced-Performance Implanted CMOS) 1-m Process </li> <li>500-mA Typical Latch-Up Immunity at 125°C </li> <li>Package Options Include Plastic Shrink Small-Outline (DL) and Thin Shrink Small-Outline (DGG) Packages, and 380-mil Fine-Pitch Ceramic Flat (WD) Packages Using 25-mil Center-to-Center Pin Spacings </li> </ul> <p> </p> <p>EPIC and Widebus are trademarks of Texas Instruments Incorporated.</p>",
+    "pdfgpt": "<ul><li>Inputs are TTL-voltage compatible.</li><li>3-state outputs can drive bus lines or buffer memory address registers.</li><li>Flow-through architecture optimizes PCB layout.</li><li>Distributed VCC and GND pin configurations minimize high-speed switching noise.</li><li>Utilizes EPIC (Enhanced-Performance Implanted CMOS) technology.</li><li>Provides 500-mA typical latch-up immunity at 125°C.</li><li>Package options include Plastic Shrink Small-Outline (DL) and Thin Shrink Small-Outline (DGG) packages, as well as 380-mil Fine-Pitch Ceramic Flat (WD) packages using 25-mil center-to-center pin spacings.</li></ul>"
+  },
+  "Lifecycle": {
+    "ti": "ACTIVE",
+    "octopart": "ACTIVE",
+    "digikey": "ACTIVE",
+    "arrow": "ACTIVE"
+  },
+  "Manufacturer": {
+    "ti": "ti",
+    "component_search_engine": "Texas Instruments",
+    "arrow": "Texas Instruments",
+    "octopart": "Texas Instruments",
+    "digikey": "Texas Instruments",
+    "mouser": "texas instruments",
+    "datasheets": "Texas Instruments",
+    "lcsc": "Texas Instruments"
+  },
+  "Package": {
+    "ti": "TSSOP (DGG)-48",
+    "component_search_engine": "Small Outline Packages - DGG (R-PDSO-G48)",
+    "mouser": "TSSOP-48",
+    "digikey": "48-TFSOP (0.240\", 6.10mm Width)",
+    "arrow": "TSSOP",
+    "lcsc": "TSSOP-48-6.2mm"
+  },
+  "Parameter": {
+    "ti": "{\"Technology family\": \"ACT\", \"Supply voltage (min) (V)\": \"4.5\", \"Supply voltage (max) (V)\": \"5.5\", \"Number of channels\": \"16\", \"IOL (max) (mA)\": \"24\", \"Supply current (max) (\\u00b5A)\": \"80\", \"IOH (max) (mA)\": \"-24\", \"Input type\": \"TTL-Compatible CMOS\", \"Output type\": \"3-State\", \"Features\": \"Balanced outputs, Input clamp diode, Very high speed (tpd 5-10ns)\", \"Rating\": \"Catalog\", \"Operating temperature range (\\u00b0C)\": \"-40 to 85\"}",
+    "component_search_engine": "{\"Pin Count\": \"48\", \"Package Category\": \"Small Outline Packages\", \"Released Date\": \"Apr 6, 2021\", \"Last Modified Date\": \"Mar 7, 2023 4:10 PM UTC\"}",
+    "arrow": "{\"ECCN (US)\": \"EAR99\", \"Part Status\": \"Active\", \"HTS\": \"8542.39.00.01\", \"SVHC\": \"Yes\", \"Automotive\": \"No\", \"PPAP\": \"No\", \"Logic Family\": \"ACT\", \"Logic Function\": \"Buffer/Line Driver\", \"Number of Elements per Chip\": \"4\", \"Number of Channels per Chip\": \"16\", \"Number of Inputs per Chip\": \"16\", \"Number of Input Enables per Chip\": \"0\", \"Number of Outputs per Chip\": \"16\", \"Number of Output Enables per Chip\": \"4 Low\", \"Bus Hold\": \"No\", \"Polarity\": \"Non-Inverting\", \"Maximum Propagation Delay Time @ Maximum CL (ns)\": \"8.7@5V\", \"Absolute Propagation Delay Time (ns)\": \"11.3\", \"Process Technology\": \"CMOS\", \"Input Signal Type\": \"Single-Ended\", \"Output Type\": \"3-State\", \"Maximum Low Level Output Current (mA)\": \"24\", \"Maximum High Level Output Current (mA)\": \"-24\", \"Minimum Operating Supply Voltage (V)\": \"4.5\", \"Typical Operating Supply Voltage (V)\": \"5\", \"Maximum Operating Supply Voltage (V)\": \"5.5\", \"Maximum Quiescent Current (uA)\": \"8\", \"Propagation Delay Test Condition (pF)\": \"50\", \"Maximum Power Dissipation (mW)\": \"850\", \"Minimum Operating Temperature (\\u00b0C)\": \"-40\", \"Maximum Operating Temperature (\\u00b0C)\": \"85\", \"Packaging\": \"Tape and Reel\", \"Mounting\": \"Surface Mount\", \"Package Height\": \"1.05(Max)\", \"Package Width\": \"6.2(Max)\", \"Package Length\": \"12.6(Max)\", \"PCB changed\": \"48\", \"Standard Package Name\": \"SO\", \"Supplier Package\": \"TSSOP\", \"Pin Count\": \"48\", \"Lead Shape\": \"Gull-wing\"}",
+    "octopart": "{\"Case/Package\": \"TSSOP\", \"Contact Plating\": \"Gold\", \"Mount\": \"Surface Mount\", \"Number of Pins\": \"48\", \"High Level Output Current\": \"-24 mA\", \"Logic Function\": \"Buffer, Inverting\", \"Low Level Output Current\": \"24 mA\", \"Max Operating Temperature\": \"85 °C\", \"Max Power Dissipation\": \"850 mW\", \"Max Supply Voltage\": \"5.5 V\", \"Min Operating Temperature\": \"-40 °C\", \"Min Supply Voltage\": \"4.5 V\", \"Number of Bits\": \"16\", \"Number of Bits per Element\": \"4\", \"Number of Channels\": \"16\", \"Number of Elements\": \"4\", \"Number of Input Lines\": \"16\", \"Number of Inputs\": \"16\", \"Number of Output Lines\": \"16\", \"Number of Outputs\": \"16\", \"Operating Supply Voltage\": \"5 V\", \"Packaging\": \"Cut Tape\", \"Polarity\": \"Non-Inverting\", \"Propagation Delay\": \"8.7 ns\", \"Quiescent Current\": \"8 µA\", \"Schedule B\": \"8542390000\", \"Termination\": \"SMD/SMT\", \"Turn-On Delay Time\": \"11.3 ns\", \"Height\": \"0 m\", \"Length\": \"12.5 mm\", \"Thickness\": \"1.15 mm\", \"Width\": \"6.1 mm\"}",
+    "mouser": "{\"Manufacturer\": \"Texas Instruments\", \"Product Category\": \"Buffers & Line Drivers\", \"RoHS\": \"Details\", \"Logic Family\": \"ACT\", \"Number of Input Lines\": \"16 Input\", \"Number of Output Lines\": \"16 Output\", \"Polarity\": \"Non-Inverting\", \"Package / Case\": \"TSSOP-48\", \"High Level Output Current\": \"- 24 mA\", \"Low Level Output Current\": \"24 mA\", \"Quiescent Current\": \"8 uA\", \"Supply Voltage - Min\": \"4.5 V\", \"Supply Voltage - Max\": \"5.5 V\", \"Operating Supply Current\": \"80 uA\", \"Minimum Operating Temperature\": \"- 40 C\", \"Maximum Operating Temperature\": \"+ 85 C\", \"Mounting Style\": \"SMD/SMT\", \"Brand\": \"Texas Instruments\", \"Function\": \"Buffer/Line Driver\", \"Height\": \"1.15 mm\", \"Input Signal Type\": \"Single-Ended\", \"Length\": \"12.5 mm\", \"Logic Type\": \"CMOS\", \"Number of Channels\": \"16\", \"Operating Supply Voltage\": \"4.5 V to 5.5 V\", \"Output Type\": \"3-State\", \"Pd - Power Dissipation\": \"850 mW\", \"Product Type\": \"Buffers & Line Drivers\", \"Propagation Delay Time\": \"8.7 ns at 5 V\", \"Series\": \"74ACT16244\", \"Factory Pack Quantity\": \"2000\", \"Subcategory\": \"Logic ICs\", \"Supply Current - Max\": \"8 uA\", \"Technology\": \"CMOS\", \"Width\": \"6.1 mm\", \"Unit Weight\": \"0.007873 oz\"}",
+    "datasheets": "{\"place\": \"Malaysia\", \"launch_date\": \"Aug 1, 2003\", \"last_inspection_date\": \"14 MAY 2023\", \"rohs_version\": \"2011/65/EU, 2015/863\", \"supplier_cage_code\": \"01295\", \"htsusa\": \"8542390001\", \"schedule_b\": \"8542390000\", \"ppap\": False, \"aec\": False}",
+    "digikey": "{\"Manufacturer\": \"Texas Instruments\", \"Series\": \"74ACT\", \"Packaging\": [\"Tape & Reel (TR)\", \"Cut Tape (CT)\", \"Digi-Reel\\u00ae\"], \"Part Status\": \"Active\", \"Logic Type\": \"Buffer, Non-Inverting\", \"Number of Elements\": \"4\", \"Number of Bits per Element\": \"4\", \"Input Type\": \"-\", \"Output Type\": \"3-State\", \"Current - Output High, Low\": \"24mA, 24mA\", \"Voltage - Supply\": \"4.5V ~ 5.5V\", \"Operating Temperature\": \"-40\\u00b0C ~ 85\\u00b0C (TA)\", \"Mounting Type\": \"Surface Mount\", \"Package / Case\": \"48-TFSOP (0.240\\\", 6.10mm Width)\", \"Supplier Device Package\": \"48-TSSOP\", \"Base Product Number\": \"74ACT16244\"}",
+    "lcsc": "{\"output type\": \"Tri-State\", \"Input type\": \"-\", \"Sink Current\": \"24mA\", \"Supply Voltage\": \"4.5V~5.5V\", \"Source Current\": \"24mA\", \"Operating Temperature\": \"-40℃~+85℃\"}"
+  },
+  "Category": {
+    "component_search_engine": "Integrated Circuit",
+    "arrow": "Standard and Specialty Logic>Specialty Logic>Buffers and Line Drivers",
+    "ti": "Logic & voltage translation>Buffers, drivers & transceiver>Noninverting buffers & drivers",
+    "octopart": "Electronic Parts>Integrated Circuits (ICs)>Logic ICs>Buffers, Drivers and Transceivers",
+    "digikey": "Integrated Circuits (ICs)>Logic>Buffers, Drivers, Receivers, Transceivers",
+    "mouser": "Semiconductors>Logic ICs>Buffers & Line Drivers",
+    "datasheets": "Semiconductor > Standard and Specialty Logic > Specialty Logic > Buffers and Line Drivers",
+    "fasttext": "Integrated Circuits (ICs)>Logic>Buffers, Drivers, Receivers, Transceivers",
+    "lcsc": "Logic ICs>Buffer/Driver/Transceiver"
+  },
+  "Application": {
+    "pdfgpt": "<ul><li>Memory address drivers: It can efficiently drive the address lines of memory modules in computer systems.</li><li>Clock drivers: It's suitable for driving clock signals in digital systems.</li><li>Bus-oriented receivers and transmitters: It can drive bus lines in systems where data is transmitted between different modules or components.</li><li>General-purpose buffering: It can be used as a general-purpose buffer for various digital signals in electronic circuits.  Its versatile design allows it to function effectively in a wide range of digital systems where reliable signal buffering and driving are required.</li></ul>"
+  }
+}
